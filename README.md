@@ -7,3 +7,9 @@ Food delivery website template, built with Bootstrap with Gulp 4+. Sass, browser
 
 ![bootstrapstarter](docs/img/screenshot.jpg)
 
+
+https://developer.pesapal.com/how-to-integrate/step-by-step
+
+https://leadsluxe.co.ke/woocommerce-in-kenya/
+
+
